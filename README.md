@@ -13,24 +13,6 @@
 />
 </p>
 
-# Acerca de la entrega💾:
-
-* Consumimos una api: https://fakestoreapi.com/products que nos trae un listado de 20 productos.
-* Mientras se realiza la búsqueda de los productos tenemos un spinner con un mensaje avisando de que estamos buscando los productos
-* Una vez que traemos los productos quitamos el spinner y dibujamos una tabla con los 20 productos.
-* La tabla es totalmente responsiva, adaptándose a distintas resoluciones de pantalla. 
-
-# Vista mientras se consulta la API y el spinner está corriendo: 
-![image](https://github.com/DarioLopez18/TypeScript/blob/main/loader.png)
-
-# Vista cuando ya se completó la búsqueda y se dibujó la tabla:
-
-![image](https://github.com/DarioLopez18/TypeScript/blob/main/desktop.png)
-
-# Vista responsive
-* En la tabla se genera un scroll, que nos permite deslizar y visualizar todos los campos de la tabla
-![image](https://github.com/DarioLopez18/TypeScript/blob/main/Responsive.png)
-
 # Datos del alumno👨‍🎓:
 
 * Nombre: Lopez, Dario Angel Jose
